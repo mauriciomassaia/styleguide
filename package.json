@@ -6,6 +6,10 @@
     "type": "git",
     "url": "https://github.com/playground-xyz/styleguide.git"
   },
+  "engines": {
+    "node": "^16.0.0",
+    "npm": "^8.0.0"
+  },
   "keywords": [
     "style guide",
     "lint",
@@ -14,11 +18,10 @@
     "react",
     "jsx"
   ],
-  "devDependencies": [],
   "dependencies": {
-    "eslint": "^2.13.1",
-    "eslint-find-rules": "^1.10.0",
-    "eslint-plugin-import": "^1.8.1"
+    "eslint": "^8.13.0",
+    "eslint-find-rules": "^4.1.0",
+    "eslint-plugin-import": "^2.26.0"
   },
   "author": "Biagio Abignano <biagio.abignano@playgroundxyz.com>",
   "license": "MIT",

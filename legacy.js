@@ -14,7 +14,6 @@ module.exports = {
     node: true,
     mocha: true
   },
-  ecmaFeatures: {},
   globals: {},
   rules: {}
 };
