@@ -63,12 +63,12 @@ List of plugins for common text editors:
   - Sublime Plugin: [sindresorhus/editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) (Requires restart)
   - Atom Plugin: [sindresorhus/atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig)
   - Vim Plugin: [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)
- 
-To use we recommend creating a symlink at the root level of your project `.editorconfig` that links to `node_modules/playground-styleguide/.editorconfig` so you automatically get the required updates
+
+To use we recommend creating a symlink at the root level of your project `.editorconfig` that links to `node_modules/@playgroundxyz/styleguide/.editorconfig` so you automatically get the required updates
 
 Example symlink command (From within the root of your project):
 
-    ln -s node_modules/playground-styleguide/.editorconfig .editorconfig
+    ln -s node_modules/@playgroundxyz/styleguide/.editorconfig .editorconfig
 
 ### Common Problems
 
