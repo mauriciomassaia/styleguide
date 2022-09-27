@@ -52,7 +52,7 @@ Other Style Guides
 
   To use this styleguide in your Playground XYZ project it should be included as an NPM package via the package.json file in the root of your project.
 
-    npm install https://github.com/playground-xyz/styleguide.git --save-dev
+    npm i -D @playgroundxyz/styleguide
 
 ## EditorConfig
 
